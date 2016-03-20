@@ -1,0 +1,9 @@
+# OS/Editor
+.DS_Store
+.idea
+*.sublime-project
+*.sublime-workspace
+
+# Other Folders
+bower_components
+node_modules
